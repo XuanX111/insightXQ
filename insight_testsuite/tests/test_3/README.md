@@ -1,0 +1,3 @@
+Test 3 aim to test
+1. if TRANSATION_DT is invalid, whether the program would still take the record into consideration when outputting the results of medianvals_by_zip.txt but completely ignore the record when clculatin gvalues for medianvals_by_date.txt
+2. if ZIP_CODE is invalid, whether the program would still take the record into consideration when outputting the results of medianvals_by_date.txt but completely ignore the record when clculatin gvalues for medianvals_by_zip.txt

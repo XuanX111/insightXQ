@@ -1,0 +1,1 @@
+Test 2 aim to test if any lines in the input file contains empty cells in the CMTE_ID whether or not the program would ignore and skip the record and not take it into consideration when making any calculations for the output files.
